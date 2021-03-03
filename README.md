@@ -1,6 +1,8 @@
-# Ui_Challenge_Exercise_App
+# QFitness - Simple fitness applcation
 
-A new Flutter application.
+This is a simple application for maintaining the user Fitness
+
+
 
 ## Getting Started
 
